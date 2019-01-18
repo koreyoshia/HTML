@@ -8,11 +8,11 @@
 </head>
 <body bgcolor=#ba55d3 style="height:1500px">
 <!--body的背景可以是一张图-->
-    <h1 align="center">123</h1>
+<!--     <h1 align="center">123</h1>
     <hr>
     <h2>123</h2>
     </hr>
-    <h3>123</h3>
+    <h3>123</h3> -->
     <p>HTML 是用来描述网页的一种语言。
         HTML 指的是超文本标记语言 (Hyper Text Markup Language)
         <blockquote> HTML 不是一种编程语言，而是一种标记语言</blockquote>
